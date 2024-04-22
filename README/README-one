@@ -1,0 +1,13 @@
+BRIEF DESCRIPTION:
+
+I'm working on building my personal portfolio, and I'm implementing a full CRUD operations web app using Django. The portfolio will 
+feature several pages, starting with a home page showcasing beautiful images related to technology and professional design elements.
+
+Additionally, I'll have a projects page where I'll display links, URLs, and details about my various projects. For visitors interested 
+in my skills and expertise, there will be a dedicated skills page.
+
+To add a personal touch, I'll include customized videos, recommended books, and the ability to display PDF documents.
+ Lastly, I'll have a hobbies page where I'll share my interests and likes.
+
+Throughout the development process, I'll be documenting each step to provide insights into how the project evolves
+ and how each feature is implemented.
